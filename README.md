@@ -1,4 +1,4 @@
-![image](https://github.com/aarushiagarwal131/React-Projects/assets/100944778/0415dfa6-10fa-48f1-b35d-f47f90cf42f4)# MovieLand
+# MovieLand
 
 MovieLand is a React web application that allows users to search for movies using the OMDb API and displays the search results. Users can enter a movie title in the search bar and click the search icon to retrieve a list of movies matching the search query. The application displays movie cards for each search result, showing the movie title, release year, poster image, and type.
 
